@@ -1,5 +1,8 @@
 import numpy as np
 
+def add_two(a)
+     return a + 2
+
 def add_vars(a, b):
         return a + b
 
