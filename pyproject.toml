@@ -18,7 +18,7 @@ dependencies = ["numpy"]
 
 [tool.hatch.version]
 #path = "src/pyadvcourse/__init__.py"
-path = "vcs"
+source = "vcs"
 
 [tool.hatch.build.targets.wheel]
 only-include = ["src"]
