@@ -1,3 +1,5 @@
+import numpy as np
+
 def add_vars(a, b):
         return a + b
 

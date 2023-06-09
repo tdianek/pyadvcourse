@@ -14,7 +14,7 @@ authors = [
     { email = "tklankert@gmx.ch", name = "Tanja Klankert" },
 ]
 dynamic = ["version"]
-dependencies = []
+dependencies = ["numpy"]
 
 [tool.hatch.version]
 path = "src/pyadvcourse/__init__.py"
